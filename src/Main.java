@@ -1,6 +1,6 @@
-// Aluno: Arthur Land Avila
+// Aluno: Arthur Land Avila & Leonardo Trindade Rubert
 // Versão: 1.0
-// Data Última Atualização: 2020 09 21
+// Data Última Atualização: 2020 09 28
 
 // Falta um metodo toString na HeapPriorityQueue
 
